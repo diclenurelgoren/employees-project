@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Dicle Nur Elgören",
+      "department": "yazılım",
+      "salary": 22222,
+      "id": 1
+    },
+    {
+      "name": "Dicle Nur Elgören",
+      "department": "yazılım",
+      "salary": "11111",
+      "id": 2
+    },
+    {
+      "name": "Dicle Nur Elgören",
+      "department": "yazılım",
+      "salary": "10000",
+      "id": 3
+    }
+  ]
+}
